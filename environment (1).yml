@@ -1,0 +1,9 @@
+name: casaguide
+dependencies: 
+        - numpy
+        - python = 3.6 
+        - pip
+        -pip:
+            - casatasks
+            - matplotlib 
+

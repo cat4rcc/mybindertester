@@ -4,6 +4,7 @@ dependencies:
         - python = 3.6 
         - pip
         - pip:
-            - casatasks
+            - casatools==6.5.5.21
+            - casatasks==6.5.5.21
             - matplotlib 
 
